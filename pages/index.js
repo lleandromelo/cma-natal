@@ -1,5 +1,5 @@
 function Home(){
-    return <div>Amorezinho, Te amo</div>
+    return <h2>CMA Natal</h2>
 }
 
 export default Home
