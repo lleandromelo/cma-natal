@@ -1,5 +1,5 @@
 function Home(){
-    return <h2>CMA Natal</h2>
+    return <h2>CMA Natal (Estamos em construção)</h2>
 }
 
 export default Home
